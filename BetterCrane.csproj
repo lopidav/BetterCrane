@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>StoreAutomation</AssemblyName>
+    <Description>Improves cranes. Allows them to buy and sell, take out cards from boosters and coin chests, move any player-draggable cards exept buildings, and prohibits them for moving cards that in a process of something.</Description>
+    <Version>0.1.0</Version>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BepInEx.Analyzers" Version="1.*" PrivateAssets="all" />
+    <PackageReference Include="BepInEx.Core" Version="5.*" />
+    <PackageReference Include="UnityEngine.Modules" Version="2020.3.6" IncludeAssets="compile" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ShapesRuntime">
+      <HintPath>$(stacklandsDir)/Stacklands_Data/Managed/ShapesRuntime.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="SteamManager">
+      <HintPath>$(stacklandsDir)/Stacklands_Data/Managed/SteamManager.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="GameScripts">
+      <HintPath>$(stacklandsDir)/Stacklands_Data/Managed/GameScripts.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="SokLoc">
+      <HintPath>$(stacklandsDir)/Stacklands_Data/Managed/SokLoc.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>$(stacklandsDir)/Stacklands_Data/Managed/Newtonsoft.Json.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>$(stacklandsDir)/Stacklands_Data/Managed/Unity.TextMeshPro.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>$(stacklandsDir)/Stacklands_Data/Managed/UnityEngine.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+</Project>

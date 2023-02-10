@@ -1,0 +1,10 @@
+D:\dev\StoreAutomation\obj\Debug\netstandard2.0\StoreAutomation.csproj.AssemblyReference.cache
+D:\dev\StoreAutomation\obj\Debug\netstandard2.0\StoreAutomation.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\StoreAutomation\obj\Debug\netstandard2.0\StoreAutomation.AssemblyInfoInputs.cache
+D:\dev\StoreAutomation\obj\Debug\netstandard2.0\StoreAutomation.AssemblyInfo.cs
+D:\dev\StoreAutomation\obj\Debug\netstandard2.0\StoreAutomation.csproj.CoreCompileInputs.cache
+D:\dev\StoreAutomation\bin\Debug\netstandard2.0\StoreAutomation.deps.json
+D:\dev\StoreAutomation\bin\Debug\netstandard2.0\StoreAutomation.dll
+D:\dev\StoreAutomation\bin\Debug\netstandard2.0\StoreAutomation.pdb
+D:\dev\StoreAutomation\obj\Debug\netstandard2.0\StoreAutomation.dll
+D:\dev\StoreAutomation\obj\Debug\netstandard2.0\StoreAutomation.pdb

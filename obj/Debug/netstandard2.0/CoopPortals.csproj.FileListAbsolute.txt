@@ -1,0 +1,10 @@
+D:\dev\CoopPortals\obj\Debug\netstandard2.0\CoopPortals.csproj.AssemblyReference.cache
+D:\dev\CoopPortals\obj\Debug\netstandard2.0\CoopPortals.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\CoopPortals\obj\Debug\netstandard2.0\CoopPortals.csproj.CoreCompileInputs.cache
+D:\dev\CoopPortals\obj\Debug\netstandard2.0\CoopPortals.AssemblyInfoInputs.cache
+D:\dev\CoopPortals\obj\Debug\netstandard2.0\CoopPortals.AssemblyInfo.cs
+D:\dev\CoopPortals\bin\Debug\netstandard2.0\CoopPortals.deps.json
+D:\dev\CoopPortals\bin\Debug\netstandard2.0\CoopPortals.dll
+D:\dev\CoopPortals\bin\Debug\netstandard2.0\CoopPortals.pdb
+D:\dev\CoopPortals\obj\Debug\netstandard2.0\CoopPortals.dll
+D:\dev\CoopPortals\obj\Debug\netstandard2.0\CoopPortals.pdb
